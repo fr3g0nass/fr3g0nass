@@ -34,7 +34,7 @@ public abstract class GitHubUser {
   
       this.name = username;
       this.country = country;
-      this.age = age;
+      this.age = age:
   }
 
   public void addLanguage(

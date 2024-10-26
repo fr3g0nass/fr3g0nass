@@ -18,7 +18,7 @@
 
 
 - :school: Actualmente estoy cursando una fp de Informatica
-- :student: Cocinando cositas con mi mana znothydr0
+- :student: Cocinando cositas con mi pana znothydr0
 - :nerd_face: Siempre aprendiendo `cosas nuevas`.
 - :computer: Me gusta jugar a  `Valorant`, `League of legends`, `Osu`, `Cs2`,.
 
@@ -62,7 +62,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🐍 Uba serpiente comiendose el grafico de contribuciones.
+## 🐍 Una serpiente comiendose el grafico de contribuciones.
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>

@@ -1,68 +1,11 @@
-public final class fr3g0nass extends GitHubUser {
+<h1 align="center">Hola 👋, me llamo Fr3gonass</h1>
+<h3 align="center">Soy estudiante de informática y apasionado de los videojuegos</h3>
 
-  public fr3g0nass() {
-    super("fr3g0nass", "Spain", 19);
-    
-    this.addLanguage(Language.JAVA); 
-    this.addLearningLanguage(
-      Language.JAVASCRIPT,
-    );
-    
-    this.addExperience(
-      "Spigot API",
-      "Paper API",
-    );
-  }
-}
+- 💬 Ask me about **html,css y python**
 
-public abstract class GitHubUser {
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-  @Getter private final String username;
-  @Getter private final String country;
-  @Getter private final int age;
-
-  private final Set<String> experiences = new HashSet<>();
-  private final Set<Language> languages = new HashSet<>();
-  private final Set<Language> learningLanguage = new HashSet<>(); // General Languages
-
-  public GitHubUser(
-      String username, 
-      String country, 
-      int age
-      
-  ) {
-  
-      this.name = username;
-      this.country = country;
-      this.age = age:
-  }
-
-  public void addLanguage(
-      Language... language
-  ) {
-      this.languages.addAll(language);
-  }
-  
-  public void addExperience(
-      String... experience
-  ) {
-      this.experiences.addAll(experience);
-  }
-  
-  public void addLearningLanguage(
-      Language... languages
-  ){
-      this.learningLanguage.addAll(languages);
-  } 
-}
-
-public enum Language {
-
-  HTML,
-  CSS,
-  JAVA,
-  JAVASCRIPT,
-  PYTHON,
-  PHP,
-
-}
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>

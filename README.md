@@ -17,9 +17,9 @@
 
 
 
-- :school: Actualmente estoy cursando una fp de Informatica
-- :student: Cocinando cositas con mi pana znothydr0
-- :nerd_face: Siempre aprendiendo `cosas nuevas`.
+- :school: Actualmente estoy cursando una Ingenieria Inoformatica
+- :student: Cocinando cositas con mi compañero el znothydr0 el jugador de minecraft
+- :nerd_face: Siempre aprendiendo `cositas nuevas`.
 - :computer: Me gusta jugar a  `Valorant`, `League of legends`, `Osu`, `Cs2`,.
 
 <br>

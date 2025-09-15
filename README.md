@@ -17,7 +17,7 @@
 
 
 
-- :school: Actualmente estoy cursando una Ingenieria Inoformatica
+- :school: Actualmente estoy cursando desarrollo de aplicaciones multiplataforma
 - :student: Cocinando cositas con mi compañero el znothydr0 el jugador de minecraft
 - :nerd_face: Siempre aprendiendo `cositas nuevas`.
 - :computer: Me gusta jugar a  `Valorant`, `League of legends`, `Osu`, `Cs2`,.

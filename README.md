@@ -18,9 +18,9 @@
 
 
 - :school: Actualmente estoy cursando desarrollo de aplicaciones multiplataforma
-- :student: Cocinando cositas con mi compañero el znothydr0 el jugador de minecraft
+- :student: Cocinando cositas con nuevas con mi broda ZnotHydro
 - :nerd_face: Siempre aprendiendo `cositas nuevas`.
-- :computer: Me gusta jugar a  `Valorant`, `League of legends`, `Osu`, `Cs2`,.
+- :computer: Ya no Me gusta jugar a  `Valorant`, `League of legends`, `Osu`, `Cs2`,.
 
 <br>
 
@@ -33,6 +33,7 @@
 
   &emsp;
  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+ Java soon
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development

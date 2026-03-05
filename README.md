@@ -38,10 +38,7 @@
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr3g0nass&layout=compact" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fr3g0nass&show_icons=true&theme=radical" width="45%" />
-</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

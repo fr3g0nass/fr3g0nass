@@ -4,7 +4,6 @@
 
 <h1 align="center"><b>Hola , soy fr3g0nass </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+just+a+chill+guy+exploring...;Full+Stack+Developer+in+progress;Always+learning+new+things;Cybersecurity+enthusiast;Linux+user+%26+proud">
@@ -16,7 +15,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming languages
+### 🖥️ Programming languages
 
 <p align="center"> 
   &emsp;
@@ -33,7 +32,7 @@
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Frontend.gif?raw=true" width = 50px> </picture> Frontend Development
+### 🎨 Frontend Development
 
 <p align="center"> 
   &emsp;
@@ -46,7 +45,7 @@
   <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Backend.gif?raw=true" width = 50px> </picture> Backend Development
+### ⚙️ Backend Development
 
 <p align="center"> 
   &emsp;
@@ -59,7 +58,7 @@
   <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Databases.gif?raw=true" width = 50px> </picture> Databases
+### 🗄️ Databases
 
 <p align="center"> 
   &emsp;
@@ -70,7 +69,7 @@
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> </picture> Operating Systems
+### 💻 Operating Systems
 
 <p align="center">
   &emsp;
@@ -85,7 +84,7 @@
   <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Devops.gif?raw=true" width = 50px> </picture> DevOps & Tools
+### 🛠️ DevOps & Tools
 
 <p align="center">
   &emsp;
@@ -100,7 +99,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cybersecurity.gif?raw=true" width = 50px> </picture> Cybersecurity
+### 🔐 Cybersecurity
 
 <p align="center">
   &emsp;
@@ -115,12 +114,13 @@
 
 ## 📊 Mis estadísticas de GitHub
 
+<!-- STATS CON TIMESTAMP PARA EVITAR CACHÉ -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fr3g0nass&show_icons=true&count_private=true&hide=contribs,prs&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fr3g0nass&show_icons=true&count_private=true&hide=contribs,prs&theme=radical&cache_seconds=1800" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr3g0nass&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr3g0nass&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 <p align="center">
@@ -142,56 +142,6 @@
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
-
-<br>
-
-## 🌐 Conecta conmigo
-
-<p align="center">
-  <a href="https://twitter.com/tuusuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &emsp;
-  <a href="https://linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &emsp;
-  <a href="https://instagram.com/tuusuario">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &emsp;
-  <a href="https://discord.gg/tudiscord">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &emsp;
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<br>
-
-## 📝 Últimos proyectos
-
-<p align="center">
-  <a href="https://github.com/fr3g0nass/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fr3g0nass&repo=proyecto1&theme=radical" />
-  </a>
-  &emsp;
-  <a href="https://github.com/fr3g0nass/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fr3g0nass&repo=proyecto2&theme=radical" />
-  </a>
-</p>
-
-<br>
-
-## ⚡ Fun fact
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</p>
-
-<br>
 
 ## 📈 Visitas al perfil
 

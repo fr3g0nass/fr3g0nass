@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <style>
+    text { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; font-size: 14px; dominant-baseline: middle; }
+    @keyframes cl0 { 0%,0% { opacity: 0 } 2%,88% { opacity: 1 } 95%,100% { opacity: 0 } }
+    @keyframes cl1 { 0%,5% { opacity: 0 } 7%,88% { opacity: 1 } 95%,100% { opacity: 0 } }
+    @keyframes cl2 { 0%,10% { opacity: 0 } 12%,88% { opacity: 1 } 95%,100% { opacity: 0 } }
+    @keyframes cl3 { 0%,15% { opacity: 0 } 17%,88% { opacity: 1 } 95%,100% { opacity: 0 } }
+    @keyframes cl4 { 0%,20% { opacity: 0 } 22%,88% { opacity: 1 } 95%,100% { opacity: 0 } }
+    @keyframes cl5 { 0%,25% { opacity: 0 } 27%,88% { opacity: 1 } 95%,100% { opacity: 0 } }
+    @keyframes cl6 { 0%,30% { opacity: 0 } 32%,88% { opacity: 1 } 95%,100% { opacity: 0 } }
+    @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    .cl0 { animation: cl0 12s ease-in-out infinite }
+    .cl1 { animation: cl1 12s ease-in-out infinite }
+    .cl2 { animation: cl2 12s ease-in-out infinite }
+    .cl3 { animation: cl3 12s ease-in-out infinite }
+    .cl4 { animation: cl4 12s ease-in-out infinite }
+    .cl5 { animation: cl5 12s ease-in-out infinite }
+    .cl6 { animation: cl6 12s ease-in-out infinite }
+  </style>
+  <!-- Window background -->
+  <rect width="100%" height="100%" fill="#1e1e1e" rx="14" ry="14"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="800" height="30" fill="#2c2c2c" rx="14" ry="14"/>
+  <rect x="0" y="16" width="800" height="14" fill="#2c2c2c"/>
+  <g opacity="0.55">
+    <circle cx="22" cy="15" r="5.5" fill="#ff5f57"/>
+    <circle cx="40" cy="15" r="5.5" fill="#febc2e"/>
+    <circle cx="58" cy="15" r="5.5" fill="#28c840"/>
+  </g>
+  <text x="400" y="16" fill="#6a737d" font-family="ui-monospace, monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">profile.json</text>
+
+  <!-- Tab bar -->
+  <rect x="0" y="30" width="800" height="32" fill="#2c2c2c"/>
+  <rect x="0" y="30" width="156" height="32" fill="#252525"/>
+  <!-- Active tab pill -->
+  <rect x="156" y="30" width="160" height="32" fill="#1e1e1e"/>
+  <rect x="156" y="30" width="160" height="2" fill="#569cd6"/>
+  <text x="172" y="46" fill="#d4d4d4" font-family="ui-monospace, monospace" font-size="11" dominant-baseline="middle">profile.json</text>
+  <text x="300" y="46" fill="#6a737d" font-family="ui-monospace, monospace" font-size="11" dominant-baseline="middle">×</text>
+
+  <!-- Sidebar -->
+  <rect x="0" y="62" width="156" height="238" fill="#252525"/>
+  <text x="20" y="74" fill="#6a737d" font-family="ui-monospace, monospace" font-size="9" letter-spacing="1.2" dominant-baseline="middle">EXPLORER</text>
+  <text x="20" y="100" fill="#6a737d" font-size="12" dominant-baseline="middle">skills.svg</text>
+  <rect x="0" y="108" width="156" height="22" fill="#d4d4d4" fill-opacity="0.06"/><text x="20" y="122" fill="#d4d4d4" font-size="12" dominant-baseline="middle">header-1.svg</text>
+  <text x="20" y="144" fill="#6a737d" font-size="12" dominant-baseline="middle">gh-stats.svg</text>
+  <text x="20" y="166" fill="#6a737d" font-size="12" dominant-baseline="middle">footer.svg</text>
+  <text x="20" y="188" fill="#6a737d" font-size="12" dominant-baseline="middle">header-2.svg</text>
+  <!-- Vertical divider between sidebar and editor -->
+  <line x1="156" y1="62" x2="156" y2="300" stroke="#353535" stroke-width="1"/>
+
+  <!-- Editor body -->
+  <g class="cl0">
+    <text x="184" y="132" fill="#6a737d" text-anchor="end" font-size="12">1</text>
+    <g transform="translate(194 132)"><text x="0" fill="#d4d4d4">{</text></g>
+  </g>
+  <g class="cl1">
+    <text x="184" y="154" fill="#6a737d" text-anchor="end" font-size="12">2</text>
+    <g transform="translate(194 154)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#569cd6">&quot;name&quot;</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">&quot;fr3g0nass&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
+  </g>
+  <g class="cl2">
+    <text x="184" y="176" fill="#6a737d" text-anchor="end" font-size="12">3</text>
+    <g transform="translate(194 176)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#569cd6">&quot;role&quot;</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">&quot;Software Developer&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
+  </g>
+  <g class="cl3">
+    <text x="184" y="198" fill="#6a737d" text-anchor="end" font-size="12">4</text>
+    <g transform="translate(194 198)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#569cd6">&quot;org&quot;</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">&quot;Institut Jaume Huguet&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
+  </g>
+  <g class="cl4">
+    <text x="184" y="220" fill="#6a737d" text-anchor="end" font-size="12">5</text>
+    <g transform="translate(194 220)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#569cd6">&quot;location&quot;</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">&quot;Tarragona&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
+  </g>
+  <g class="cl5">
+    <text x="184" y="242" fill="#6a737d" text-anchor="end" font-size="12">6</text>
+    <g transform="translate(194 242)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#569cd6">&quot;tagline&quot;</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">&quot;Joseando codigo cada dia&quot;</tspan><tspan dx="-0.15em" fill="#d4d4d4" font-weight="700" style="animation: blink 1s steps(1) infinite">|</tspan></text></g>
+  </g>
+  <g class="cl6">
+    <text x="184" y="264" fill="#6a737d" text-anchor="end" font-size="12">7</text>
+    <g transform="translate(194 264)"><text x="0" fill="#d4d4d4">}</text></g>
+  </g>
+
+</svg>
